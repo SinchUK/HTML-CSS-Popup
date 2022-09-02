@@ -42,7 +42,7 @@ body {
   text-align: left;
   position: absolute;
   top: 65px;
-  width: 300px;
+  width: 320px;
   height: 475px;
   overflow-x: hidden;
   z-index: 1;
@@ -199,5 +199,6 @@ body {
 @media only screen and (max-width: 768px) {
   .tooltip {
     right: 15px;
+    width: 300px;
   }
 }
